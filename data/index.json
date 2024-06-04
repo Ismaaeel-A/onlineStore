@@ -1,0 +1,44 @@
+{
+    "results": [
+        {
+            "ProductName": "Dell-latitude",
+            "catergory": "Laptop",
+            "description": "Dell latitude this description 1",
+            "amount": 22000.89,
+            "img_url": "https://ismaaeel-a.github.io/allimages/Images/Desk.jpg"
+        },
+        
+        {
+            "ProductName": "HP-incel",
+            "catergory": "Laptop",
+            "description": "Dell latitude this description 2",
+            "amount": 20000.89,
+            "img_url": "https://ismaaeel-a.github.io/allimages/Images/Desk.jpg"
+        },
+
+        {
+            "ProductName": "Acer Cant Inspire 3",
+            "catergory": "Laptop",
+            "description": "Dell latitude this description 3",
+            "amount": 32000.89,
+            "img_url": "https://ismaaeel-a.github.io/allimages/Images/Desk.jpg"
+        },
+
+        {
+            "ProductName": "Fitnah 4",
+            "catergory": "Laptop",
+            "description": "Dell latitude this description 4",
+            "amount": 19000.89,
+            "img_url": "https://ismaaeel-a.github.io/allimages/Images/Desk.jpg"
+        },
+
+        {
+            "ProductName": "Father of Kronos",
+            "catergory": "Laptop",
+            "description": "Dell latitude this description 5",
+            "amount": 15000.89,
+            "img_url": "https://ismaaeel-a.github.io/allimages/Images/Desk.jpg"
+        }
+
+    ]
+}
