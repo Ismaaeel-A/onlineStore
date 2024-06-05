@@ -38,12 +38,12 @@
             "description": "Dell latitude this description 5",
             "amount": 15000.89,
             "img_url": "https://ismaaeel-a.github.io/allimages/Images/Desk.jpg"
-        }
+        },
 
         {
             "ProductName": "Fitnah 4",
             "catergory": "Car",
-            "description": "Dell latitude this description 4",
+            "description": "Dell latitude this description 6",
             "amount": 19000.89,
             "img_url": "https://ismaaeel-a.github.io/allimages/Images/Desk.jpg"
         },
@@ -51,7 +51,7 @@
         {
             "ProductName": "Fitnah 4",
             "catergory": "Car",
-            "description": "Dell latitude this description 4",
+            "description": "Dell latitude this description 7",
             "amount": 19000.89,
             "img_url": "https://ismaaeel-a.github.io/allimages/Images/Desk.jpg"
         }
